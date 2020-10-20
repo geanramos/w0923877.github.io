@@ -1,2 +1,0 @@
-# geane.ml
-geane.ml
